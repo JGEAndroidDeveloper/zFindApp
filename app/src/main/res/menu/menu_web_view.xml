@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="google.com.jge.zfind.WebViewActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/homeIcon"
+        android:icon="@mipmap/ic_home_white_24dp"
+        android:orderInCategory="100"
+        android:title="Home"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/phoneIcon"
+        android:icon="@mipmap/ic_phone_white_24dp"
+        android:orderInCategory="200"
+        android:title="Call"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mapIcon"
+        android:icon="@mipmap/ic_place_white_24dp"
+        android:orderInCategory="400"
+        android:title="Home"
+        app:showAsAction="always"/>
+</menu>

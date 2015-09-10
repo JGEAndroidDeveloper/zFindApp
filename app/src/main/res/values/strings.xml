@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">zFind</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string-array name="titles">
+        <item>Android</item>
+        <item>House</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Meant to entertain</item>
+        <item>A place to be</item>
+    </string-array>
+    <string name="title_activity_list_item_selected">ListItemSelected</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_google_map">GoogleMap</string>
+    <string name="title_activity_google_map_b">GoogleMapB</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
